@@ -168,6 +168,17 @@ td, th {
     font-weight: bold;
 }
 
+.principal em {
+	front-style: italic;
+}
 
+.utensilios {
+	width: 120px;
+	float:left;
+	margin: 0 20px 20px 0;
+}
 
+.imagembeneficios{
+	width 60%;
+}
 
